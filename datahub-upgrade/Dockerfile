@@ -1,2 +1,2 @@
-FROM acryldata/datahub-upgrade
+FROM acryldata/datahub-upgrade:head
 MAINTAINER kangfj <kangfy@ctsec.com>
