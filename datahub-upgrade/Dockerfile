@@ -1,2 +1,2 @@
-FROM tugraph/geaflow-console
+FROM tugraph/tugraph-db-centos7
 MAINTAINER kangfj <kangfy@ctsec.com>
